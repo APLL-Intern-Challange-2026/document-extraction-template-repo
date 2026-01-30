@@ -23,7 +23,7 @@ Your task is to build an application (preferably using **Python**) that can proc
 ## 🛠️ Technical Constraints (Local-First)
 To ensure data privacy and cost-efficiency, we have the following strict requirements:
 * **No External/Paid APIs:** You are **not** allowed to use paid or external services (e.g., OpenAI API, AWS Textract, Azure Document Intelligence).
-* **Local LLM Hosting:** If you choose an LLM-based solution for extraction or classification, it must be a **lightweight model** (e.g., Llama 3.2-3B, Phi-3, or Mistral-7B) capable of being **hosted locally** (using tools like Ollama, Llama.cpp, or Hugging Face).
+* **Local LLM Hosting:** If you choose an LLM-based solution for extraction or classification, it must be a **lightweight model** capable of being **hosted locally** (using tools like Ollama, Llama.cpp, or Hugging Face).
 * **Tech Stack:** You are responsible for documenting how to set up the local environment to run your solution.
 
 ---
