@@ -1,17 +1,17 @@
 # Internship Challenge: Document Extraction Service
 
-Welcome! This challenge is designed to evaluate your problem-solving skills and your technical ability to work with unstructured data documents. You have **10 days** to complete this task from the moment you accept the invitation link.
+Welcome! This challenge is designed to evaluate your problem-solving skills and your technical ability to work with unstructured data documents. You have **15 days**  to submit your work.
 
 ## 📅 Challenge Timeline
-* **Start Date:** [Insert Date/Time]
-* **End Date:** [Insert Date/Time - 10 days later]
+* **Start Date:** [10/02/2025]
+* **End Date:** [25/02/2025]
 * **Submission:** Your final commit must be pushed before the deadline.
 * **Branch Policy:** You must perform all work and submit final code on the **`main`** branch only.
 
 ---
 
 ## 🚀 The Problem Statement
-Your task is to build an application (preferably using **Python**) that can process document images or PDFs to achieve the following:
+Your task is to build an application that can process document images or PDFs to achieve the following:
 
 1. **Classification:** Automatically identify if the document is an **Invoice** or a **Packing List**.
 2. **Extraction:** Extract key fields and provide the final result in **Excel (.xlsx) or JSON format**:
@@ -24,7 +24,7 @@ Your task is to build an application (preferably using **Python**) that can proc
 To ensure data privacy and cost-efficiency, we have the following strict requirements:
 * **No External/Paid APIs:** You are **not** allowed to use paid or external services (e.g., OpenAI API, AWS Textract, Azure Document Intelligence).
 * **Local LLM Hosting:** If you choose an LLM-based solution for extraction or classification, it must be a **lightweight model** capable of being **hosted locally** (using tools like Ollama, Llama.cpp, or Hugging Face).
-* **Tech Stack:** You are responsible for documenting how to set up the local environment to run your solution.
+* **Keep the output files in the Output folder**
 
 ---
 
@@ -34,7 +34,8 @@ To ensure data privacy and cost-efficiency, we have the following strict require
 * `/output`: This is where your **sample outputs** (Excel/JSON files) from the extraction process must be stored.
 * `/resumes`: Upload your resume here as a **PDF file**.
 * `/design`: Detailed documentation explaining your logic (Images, PDF, or Docx).
-* `README.md`: This file.
+* `README.md`: This is the file you are reading now
+* you can add more folders if you want but we suggest to use this folder structure to keep it uniform.
 
 ---
 
@@ -46,6 +47,7 @@ We will **primarily review your design folder** to evaluate your approach. Your 
 * **Validation:** Keep samples of your successful outputs within the `/design` folder as well.
 * **Visuals:** Use diagrams, flowcharts, or screenshots to explain your system.
 
+
 ---
 
 ## ⚖️ Rules & Evaluation
@@ -56,6 +58,6 @@ We will **primarily review your design folder** to evaluate your approach. Your 
 ---
 
 ## ❓ Questions
-If you have questions, please open an **Issue** in the [Main Template Repository]. Do not email the recruiters directly.
+If you have questions, please open an **Issue** in the [Main Template Repository](https://github.com/APLL-Intern-Challange-2026/document-extraction-template-repo). Do not email the recruiters directly.
 
-**Good luck! We are excited to see your local-first, innovative approach.**
+**Good luck! We are excited to see your innovative approach.**
