@@ -35,7 +35,7 @@ To ensure data privacy and cost-efficiency, we have the following strict require
 * `/resumes`: Upload your resume here as a **PDF file**.
 * `/design`: Detailed documentation explaining your logic (Images, PDF, or Docx).
 * `README.md`: This is the file you are reading now
-* you can add more folders if you want but we suggest to use this folder structure to keep it uniform.
+* you can add more folders if you want, but we suggest to use this folder structure to keep it uniform.
 
 ---
 
@@ -51,8 +51,8 @@ We will **primarily review your design folder** to evaluate your approach. Your 
 ---
 
 ## ⚖️ Rules & Evaluation
-1. **Multilingual Support:** English documents only for this assessment.
-2. **The "10-Day" Rule:** No commits will be accepted after the 10-day window.
+1. **No Need for Multilingual solution:** English documents only for this assessment.
+2. **The "15-Day" Rule:** No commits will be accepted after the 15-day window.
 3. **Interview Stage:** At the time of the interview, you will be asked to **live-code or walk through your logic** and explain how you handled specific document structures.
 
 ---
